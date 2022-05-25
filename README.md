@@ -46,12 +46,16 @@ Criar uma variável para:
 ¬A quantidade de RAM
 
 
+
 Corrigir erros do processo
+
 
 
 Deixar o programa mais modular
 
+
 Criar uma interface pro programa
+
 
 Criar um save pro progresso do programa
 
