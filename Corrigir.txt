@@ -1,0 +1,13 @@
+Criar uma variável para:
+¬O caminho do VMWare
+¬O caminho da ISO 
+¬A quantidade de RAM
+
+Corrigir erros do processo
+
+Deixar o programa mais modular
+
+Criar uma interface pro programa
+
+Criar um save pro progresso do programa
+Criar um save pras configurações da UI
