@@ -34,13 +34,13 @@ para Windows 7x64 na seleção de sistema operacional e apague-a
 
    ¬Politicas Locais>
 
-    ¬Opções de segurança
+.    ¬Opções de segurança
 
 Desabilite os seguintes:
 
 -Controle de conta de usuário: Executar todos os administradores no modo...
 
-                               Modo de aprovação de administrador para...
+.                               Modo de aprovação de administrador para...
 
 *Sexto, Reboote o PC  
 
