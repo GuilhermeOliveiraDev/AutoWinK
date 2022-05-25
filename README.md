@@ -26,13 +26,13 @@ para Windows 7x64 na seleção de sistema operacional e apague-a
 
 *Quinto, abra o GPEDIT.MSC vá em
 
-¬Configurações do Computador>
+.¬Configurações do Computador>
 
- ¬Configurações do Windows>
+. ¬Configurações do Windows>
 
-  ¬Configurações de segurança>
+.  ¬Configurações de segurança>
 
-   ¬Politicas Locais>
+.   ¬Politicas Locais>
 
 .    ¬Opções de segurança
 
