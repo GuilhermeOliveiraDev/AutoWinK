@@ -36,8 +36,11 @@ Desabilite os seguintes:
 # WIP
 
 Criar uma variável para:
+
 ¬O caminho do VMWare
+
 ¬O caminho da ISO 
+
 ¬A quantidade de RAM
 
 Corrigir erros do processo
