@@ -33,4 +33,19 @@ Desabilite os seguintes:
 
 *Sétimo, Utilize o teclado apenas no modo ENG, o modo ABNT nem seus caractéres são suportados
 
+# WIP
+
+Criar uma variável para:
+¬O caminho do VMWare
+¬O caminho da ISO 
+¬A quantidade de RAM
+
+Corrigir erros do processo
+
+Deixar o programa mais modular
+
+Criar uma interface pro programa
+
+Criar um save pro progresso do programa
+Criar um save pras configurações da UI
 *Rode o programa 01.py como administrador
